@@ -1,0 +1,30 @@
+{
+  "name": "sort-algorithms",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/jest": "29.5.11",
+    "jest": "29.7.0",
+    "ts-jest": "29.1.2",
+    "typescript": "5.3.3",
+    "ts-node": "10.9.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Argasar-O/Sort-Algorithms.git"
+  },
+  "author": "Argasar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Argasar-O/Sort-Algorithms/issues"
+  },
+  "homepage": "https://github.com/Argasar-O/Sort-Algorithms#readme"
+}
